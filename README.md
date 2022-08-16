@@ -17,6 +17,7 @@ check out example.conf.yaml
 
 PAT = Personal Access Token from Github
 
+Configured to talk to git with an sshkey
 
 ### Run
 ```go
