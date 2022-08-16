@@ -38,6 +38,11 @@ func main() {
 	flag.Parse()
 
 	args := flag.Args()
+
+	if len(args) <= 0 {
+		fmt.Println("no arguments provided, use \"new\" to create a project")
+	}
+
 	switch args[0] {
 	case "new":
 		//		buildProject(flag.Args()[1:])
