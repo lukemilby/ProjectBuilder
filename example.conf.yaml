@@ -1,0 +1,5 @@
+PAT: ghp_*******************************8
+LANG: rust
+SSHKEY: /Users/bear/.ssh/id_ed25519
+PROPATH: /Users/bear/go/src/github.com/lukemilby/
+GITHUB_NAME: lukemilby
